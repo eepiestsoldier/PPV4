@@ -1,0 +1,2 @@
+# PPV4
+PersonalProjectV4. Used to calculate determinants and find the induced value of a 3x3 matrix
